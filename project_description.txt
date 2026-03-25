@@ -1,0 +1,7 @@
+Project: Gesture-Controlled 3D Particle Simulation
+
+This project implements an interactive 3D particle system using real-time rendering.
+
+The system generates thousands of particles in 3D space and simulates dynamic motion and transformations. It is designed for integration with gesture-based interaction systems.
+
+The project demonstrates concepts from computer graphics, simulation, and interactive visualization.
